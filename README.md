@@ -1,10 +1,16 @@
-## FitCraft, by Srcbook
+FitCraft
+Description:
+FitCraft is a fitness application that helps users create and track personalized workout routines, monitor progress, and achieve their fitness goals.
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+Features:
 
-To run the devserver:
-```
-npm install
-npm run dev
-```
+Custom workout plans
+Progress tracking
+Fitness goal setting
+Technologies Used:
+
+React.js
+Vercel for deployment
+For more details, visit FitCraft.
+
+Feel free to modify the details as needed!
